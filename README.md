@@ -1,10 +1,10 @@
-## Learn Web Development
+# Learn Web Development
 
 This is a collection of resources for learning web development. It is a work in progress, and I will be adding to it as I find more resources.
 
 ## Roadmap
 
-0.  Setup Tools
+0.  [Setup Tools](./00-setup-tools/README.md)
 1.  HTML
 2.  CSS
 3.  JavaScript
